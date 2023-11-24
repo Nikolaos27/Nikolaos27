@@ -1,6 +1,6 @@
 # Hi there, I’m Nikolaos
 
-### I studied Mathematics with a master in 'Mathematical Models' and also i studied Business Administration 
+### I studied Mathematics with a master in 'Mathematical Models' and also I studied Business Administration 
 ### I have over 15 years teaching experience 
 ### Soon i will complete my one-year training as a Data Analyst.
 ### I love working with data, especially in Python, and applying my statistical and programmming knowledge to gain useful insights
